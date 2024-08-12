@@ -1,4 +1,4 @@
-with open("./input.txt") as f:
+with open("./Day1/input.txt") as f:
     data = f.read().strip().split("\n")
 
 num_map = {

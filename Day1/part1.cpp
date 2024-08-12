@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    ifstream file("input.txt");
+    ifstream file("./Day1/input.txt");
     string line;
     int sum = 0;
     while (getline(file, line))
